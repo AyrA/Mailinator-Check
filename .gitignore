@@ -23,3 +23,5 @@ bld/
 
 #Other crap
 *.tmp
+*.vshost.exe
+*.manifest
