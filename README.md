@@ -19,7 +19,7 @@ The operation is quite simple:
 4. Compare the lists and check, if there is at least one matching entry
 
 ## How to use
-The build binary can be used from the command line.
+The release binary can be used from the command line.
 Simply run `Mailinator-Check.exe` and supply any number of DNS names as argument.
 The return value is the number of mailinator domains found.
 
